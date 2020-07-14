@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\helloworld\bin\Debug\netcoreapp2.1\helloworld.deps.json
+C:\Users\LENOVO\Desktop\helloworld\bin\Debug\netcoreapp2.1\helloworld.runtimeconfig.json
+C:\Users\LENOVO\Desktop\helloworld\bin\Debug\netcoreapp2.1\helloworld.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\helloworld\bin\Debug\netcoreapp2.1\helloworld.dll
+C:\Users\LENOVO\Desktop\helloworld\bin\Debug\netcoreapp2.1\helloworld.pdb
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.dll
+C:\Users\LENOVO\Desktop\helloworld\obj\Debug\netcoreapp2.1\helloworld.pdb
